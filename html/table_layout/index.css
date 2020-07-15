@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+}
+
+div#container {
+    width: 100%;
+    height: 950px;
+    background-color: darkgrey;
+}
+
+div#header {
+    background-color: aqua;
+    color: green;
+    text-align: center;
+}
+
+div#content_menu {
+    color: green;
+    text-align: center;
+    width: 30%;
+    height: 80%;
+    float: left;
+    background-color: aquamarine;
+}
+
+div#content_body {
+    width: 70%;
+    height: 80%;
+    background-color: blueviolet;
+    color: green;
+    text-align: center;
+    float: left;
+}
+
+div#footing {
+    color: green;
+    text-align: center;
+    width: 100%;
+    height: 10%;
+    background-color: black;
+    clear: both;
+}
+
+

@@ -1,0 +1,10 @@
+#pid {
+    color: green;
+    text-align: center;
+}
+
+#divid p{
+    background-color: red;
+    color: yellow;
+    text-align: center;
+}
